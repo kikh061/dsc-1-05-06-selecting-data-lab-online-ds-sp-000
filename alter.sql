@@ -1,0 +1,1 @@
+Alter table planets add column rings BOOLEAN;

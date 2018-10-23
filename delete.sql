@@ -1,0 +1,1 @@
+delete from planets where name = 'Pluto';

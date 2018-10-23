@@ -1,0 +1,1 @@
+update planets set num_of_moons = num_of_moons + 15 Where name = 'Jupiter';
